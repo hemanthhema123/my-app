@@ -17,3 +17,7 @@ pipeline {
     }
   }
 }
+
+
+git poll scm 
+
